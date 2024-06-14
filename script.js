@@ -37,13 +37,13 @@ document.getElementById('pattern-select').addEventListener('change', function() 
             patternUrl = './images/i6.png';
             break;
         case 'p7':
-            patternUrl = './images/i7.png';
+            patternUrl = './images/change3.jpg';
             break;
         case 'p8':
             patternUrl = './images/i8.png';
             break;
         case 'p9':
-            patternUrl = './images/i9.png';
+            patternUrl = './images/change1.jpg';
             break;
         case 'p10':
             patternUrl = './images/i10.jpg';
@@ -55,13 +55,13 @@ document.getElementById('pattern-select').addEventListener('change', function() 
             patternUrl = './images/i12.jpg';
             break;
         case 'p13':
-            patternUrl = './images/i13.jpg';
+            patternUrl = './images/change2.jpg';
             break;
         case 'p14':
-            patternUrl = './images/i14.jpg';
+            patternUrl = './images/change4.jpg';
             break;
         case 'p15':
-            patternUrl = './images/i15.jpg';
+            patternUrl = './images/change5.jpg';
             break;
         default:
             patternUrl = './images/default.png'; // Fallback pattern
